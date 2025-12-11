@@ -23,8 +23,8 @@ Built with **FastAPI**, **React**, **LangFlow**, **Groq LLM**, **MongoDB Atlas**
 
 ### **Backend**
 - FastAPI  
-- LangFlow  
-- Groq LLM  
+- Langchain and Langgraph  
+- OpenAI API
 - ReportLab (PDF generation)  
 - python-dotenv
 
